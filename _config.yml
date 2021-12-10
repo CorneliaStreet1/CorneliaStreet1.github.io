@@ -30,7 +30,7 @@ twitter_username: "@Exile001121"
 github_username:  CorneliaStreet1
 
 # Build settings
-theme: minima
+theme: merlot
 plugins:
   - jekyll-feed
 
