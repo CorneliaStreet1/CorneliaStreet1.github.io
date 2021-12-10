@@ -30,7 +30,7 @@ twitter_username: "@Exile001121"
 github_username:  CorneliaStreet1
 
 # Build settings
-remote_theme: pages-themes/merlot@v0.2.0
+theme: minima 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
