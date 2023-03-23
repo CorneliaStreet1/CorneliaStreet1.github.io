@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: I hope I never lose you,hope it never ends.
+title: 临渊羡鱼,不如退而结网.
 email: jyq1121@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  嘉然你带我走吧！！！！！！！
+算是一个方便在线查看自己的笔记的地方吧。作为一个CS小废物,要狠狠地加油。
   
   
 baseurl: "" # the subpath of your site, e.g. /blog
